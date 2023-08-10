@@ -1,6 +1,6 @@
 **Heart Failure Prediction using Machine Learning**
 
-The provided code focuses on predicting heart failure occurrences using machine learning techniques. The project's pipeline comprises data acquisition, preprocessing, exploratory data analysis, feature engineering, model training, and evaluation. Here's a concise overview of the steps and components involved:
+The objective of this project is to predict the occurrence of death events in patients based on clinical data. The project's pipeline comprises data acquisition, preprocessing, exploratory data analysis, feature engineering, model training, and evaluation. Here's a concise overview of the steps and components involved:
 
 1. **Data Acquisition and Preparation:**
    - The code uses the Kaggle API to download a heart failure clinical dataset.
